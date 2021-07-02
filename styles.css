@@ -479,6 +479,7 @@ li {
 #buttonBack,
 #buttonForward,
 #buttonRevert,
+#buttonAnalyze,
 #buttonMenu {
     position: static;
     display: inline-block;
